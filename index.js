@@ -1,4 +1,4 @@
-*
+/*
   ptoszek.pl
   Powered by Jaczup
 
@@ -1169,3 +1169,4 @@ function setupSearchWindow (win) {
       searchIndex += 1
     }, 500)
   }, 2500)
+}
